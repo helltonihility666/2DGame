@@ -1,0 +1,731 @@
+  
+  [
+    {
+    "TalkSentenceID": 549999000,
+    "TalkSentenceText": {
+      "C": "就不信抓不到~",
+      "E": "There's no way I can't catch it~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999001,
+    "TalkSentenceText": {
+      "C": "找到了什么好东西咪？",
+      "E": "Find anything good, meow?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999002,
+    "TalkSentenceText": {
+      "C": "哟吼，全垒打~",
+      "E": "Woohoo, it's a home run~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999003,
+    "TalkSentenceText": {
+      "C": "下一站，去哪？",
+      "E": "Where to after this station?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999004,
+    "TalkSentenceText": {
+      "C": "开拓，一直在路上",
+      "E": "The Trailblaze never ends~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999005,
+    "TalkSentenceText": {
+      "C": "请叫我，银河球棒狸！",
+      "E": "Call me the Galactic Batterbo!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999006,
+    "TalkSentenceText": {
+      "C": "跟我的球棒说去咪！",
+      "E": "Go tell it to my bat, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999007,
+    "TalkSentenceText": {
+      "C": "这次也收获满满！",
+      "E": "What a haul this time too!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999008,
+    "TalkSentenceText": {
+      "C": "把坏蛋通通打飞咪！",
+      "E": "Send all the baddies flying!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999009,
+    "TalkSentenceText": {
+      "C": "我已经准备好咪~",
+      "E": "I'm all ready, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999010,
+    "TalkSentenceText": {
+      "C": "永不停下探索的脚步",
+      "E": "Never stop exploring~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999011,
+    "TalkSentenceText": {
+      "C": "规则就是用来打破的！",
+      "E": "Rules are made to be broken!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999012,
+    "TalkSentenceText": {
+      "C": "再转一圈，准能追上~",
+      "E": "One more lap and I'll catch up~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999013,
+    "TalkSentenceText": {
+      "C": "运气真不错咪！",
+      "E": "What a lucky break!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999014,
+    "TalkSentenceText": {
+      "C": "庆祝的时候到了",
+      "E": "It's time to celebrate!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999015,
+    "TalkSentenceText": {
+      "C": "朋友齐聚，派对开始~",
+      "E": "Friends are here, time to get this party started~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999016,
+    "TalkSentenceText": {
+      "C": "小眼镜一戴，姿势要帅",
+      "E": "Glasses on, aura max."
+    }
+  },
+  {
+    "TalkSentenceID": 549999017,
+    "TalkSentenceText": {
+      "C": "为我们的友谊干杯~",
+      "E": "A toast to our friendship~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999018,
+    "TalkSentenceText": {
+      "C": "小赚一笔咪~",
+      "E": "Made a tidy little profit, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999019,
+    "TalkSentenceText": {
+      "C": "有你在，没意外咪！",
+      "E": "With you around, what could go wrong, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999020,
+    "TalkSentenceText": {
+      "C": "来玩个小游戏咪~",
+      "E": "Let's play a little game, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999021,
+    "TalkSentenceText": {
+      "C": "累了，来瓶苏乐达",
+      "E": "Feeling worn out? Grab a SoulGlad."
+    }
+  },
+  {
+    "TalkSentenceID": 549999022,
+    "TalkSentenceText": {
+      "C": "接近了，就差一点点…",
+      "E": "So close... just a little more..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999023,
+    "TalkSentenceText": {
+      "C": "有惊喜，快看看咪~",
+      "E": "There's a surprise waiting for you. Go take a look, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999024,
+    "TalkSentenceText": {
+      "C": "你的歌声，我记住了咪",
+      "E": "I'll remember your song, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999025,
+    "TalkSentenceText": {
+      "C": "你愿意当我的听众吗？",
+      "E": "Would you be willing to lend me your ear?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999026,
+    "TalkSentenceText": {
+      "C": "跟上我的节拍咪~",
+      "E": "Keep up with my rhythm, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999027,
+    "TalkSentenceText": {
+      "C": "一起唱，咪咪咪♫",
+      "E": "Sing along, meow meow meow ♫"
+    }
+  },
+  {
+    "TalkSentenceID": 549999028,
+    "TalkSentenceText": {
+      "C": "好耶，满载而归咪~",
+      "E": "Woohoo, loaded up and heading home, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999029,
+    "TalkSentenceText": {
+      "C": "别怕，风会停的",
+      "E": "Don't be afraid. The wind will die down."
+    }
+  },
+  {
+    "TalkSentenceID": 549999030,
+    "TalkSentenceText": {
+      "C": "天环和小花都要整理好",
+      "E": "Make sure the halo and flower are all tidied up."
+    }
+  },
+  {
+    "TalkSentenceID": 549999031,
+    "TalkSentenceText": {
+      "C": "呼，耳朵被风吹乱了~",
+      "E": "Phew, the wind totally messed up my ears~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999032,
+    "TalkSentenceText": {
+      "C": "好晕好晕…",
+      "E": "So dizzy..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999033,
+    "TalkSentenceText": {
+      "C": "感谢老板打赏咪！",
+      "E": "Thanks for the tip, meow~!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999034,
+    "TalkSentenceText": {
+      "C": "老板人气真高咪~",
+      "E": "The boss sure is popular, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999035,
+    "TalkSentenceText": {
+      "C": "看我给你整个活~",
+      "E": "Watch me cook up something special~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999036,
+    "TalkSentenceText": {
+      "C": "你好，请支持咪奈花~",
+      "E": "Hi there, please support Sparxbloom~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999037,
+    "TalkSentenceText": {
+      "C": "给你一个大大的赞~",
+      "E": "A big thumbs up for you~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999038,
+    "TalkSentenceText": {
+      "C": "这、这么强咪？！",
+      "E": "Th—This strong, mreow!?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999039,
+    "TalkSentenceText": {
+      "C": "连线比拼大胜利！",
+      "E": "Huge victory for the linking match!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999040,
+    "TalkSentenceText": {
+      "C": "我有预感，大的要来了",
+      "E": "I've got a feeling something big is coming."
+    }
+  },
+  {
+    "TalkSentenceID": 549999041,
+    "TalkSentenceText": {
+      "C": "一起去找点乐子咪~",
+      "E": "Let's go find some fun, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999042,
+    "TalkSentenceText": {
+      "C": "这尾巴跑得真快！",
+      "E": "That tail sure can run!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999043,
+    "TalkSentenceText": {
+      "C": "宝藏，是宝藏咪！",
+      "E": "Treasure, it's treasure, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999044,
+    "TalkSentenceText": {
+      "C": "这场对战，我来当裁判",
+      "E": "I'll be the referee for this fight."
+    }
+  },
+  {
+    "TalkSentenceID": 549999045,
+    "TalkSentenceText": {
+      "C": "趁现在休息一下咪~",
+      "E": "Take a little nap while you can, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999046,
+    "TalkSentenceText": {
+      "C": "等等我…嘤嘤嘤…",
+      "E": "Wait for me... *sniffle*"
+    }
+  },
+  {
+    "TalkSentenceID": 549999047,
+    "TalkSentenceText": {
+      "C": "今天有没有长高呢？",
+      "E": "Grown any taller today?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999048,
+    "TalkSentenceText": {
+      "C": "箱子里有小点心吗？",
+      "E": "Are there any snacks in the box?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999049,
+    "TalkSentenceText": {
+      "C": "你是最棒的咪！",
+      "E": "You're the best, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999050,
+    "TalkSentenceText": {
+      "C": "诶，漫画忘带了…",
+      "E": "Aw, I forgot my comic book..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999051,
+    "TalkSentenceText": {
+      "C": "你要撞大运了咪!",
+      "E": "Major good luck is coming your way, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999052,
+    "TalkSentenceText": {
+      "C": "头发越粉，撞人越狠~",
+      "E": "The pinker the hair, the harder the hit~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999053,
+    "TalkSentenceText": {
+      "C": "可是我们没有头发咪…",
+      "E": "But we don't have hair, meow..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999054,
+    "TalkSentenceText": {
+      "C": "嗷呜，不早说！",
+      "E": "Awoo, why didn't you say so sooner!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999055,
+    "TalkSentenceText": {
+      "C": "给你个机会，夸夸我~",
+      "E": "Here's your chance, go ahead and compliment me~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999056,
+    "TalkSentenceText": {
+      "C": "…你的帽子歪得正正好",
+      "E": "...Your hat is tilted at just the right angle."
+    }
+  },
+  {
+    "TalkSentenceID": 549999057,
+    "TalkSentenceText": {
+      "C": "找不到回家的路嗷呜…",
+      "E": "Can't find my way home... awoooo..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999058,
+    "TalkSentenceText": {
+      "C": "别怕，这里就是你的家",
+      "E": "Don't be afraid. This is your home now."
+    }
+  },
+  {
+    "TalkSentenceID": 549999059,
+    "TalkSentenceText": {
+      "C": "我来准备汽水~",
+      "E": "I'll grab the sodas~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999060,
+    "TalkSentenceText": {
+      "C": "我来献唱歌曲~",
+      "E": "I'm here to serenade you~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999061,
+    "TalkSentenceText": {
+      "C": "我来邀请朋友~",
+      "E": "I'm here to invite a friend~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999062,
+    "TalkSentenceText": {
+      "C": "开一场难忘的派对咪！",
+      "E": "Let's throw a party to remember, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999063,
+    "TalkSentenceText": {
+      "C": "不许打盹，都起来锻炼",
+      "E": "No dozing off! Everyone up and at 'em!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999064,
+    "TalkSentenceText": {
+      "C": "嗷呜…饿得跑不动",
+      "E": "Grrrgh... so hungry I can barely move."
+    }
+  },
+  {
+    "TalkSentenceID": 549999065,
+    "TalkSentenceText": {
+      "C": "我点心分你一半",
+      "E": "I'll split my snacks with you."
+    }
+  },
+  {
+    "TalkSentenceID": 549999066,
+    "TalkSentenceText": {
+      "C": "活力满满，渴望冲刺！",
+      "E": "Full of energy and ready to sprint!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999067,
+    "TalkSentenceText": {
+      "C": "来比比谁跑得快~",
+      "E": "Let's see who's faster~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999068,
+    "TalkSentenceText": {
+      "C": "慢一点，注意安全嗷~",
+      "E": "Slow down and stay safe, okay~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999069,
+    "TalkSentenceText": {
+      "C": "这次的行动目标是？",
+      "E": "What's the target for this mission?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999070,
+    "TalkSentenceText": {
+      "C": "为失散的同伴准备礼物",
+      "E": "Preparing gifts for lost partners."
+    }
+  },
+  {
+    "TalkSentenceID": 549999071,
+    "TalkSentenceText": {
+      "C": "一份惊喜，嗷呜",
+      "E": "A little surprise, awoo~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999072,
+    "TalkSentenceText": {
+      "C": "想去好多有趣的地方咪",
+      "E": "There are so many cool places I want to visit, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999073,
+    "TalkSentenceText": {
+      "C": "决定了，就由你领路！",
+      "E": "Alright, you're leading the way!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999074,
+    "TalkSentenceText": {
+      "C": "嗷呜，一起出发~",
+      "E": "Awoo, let's get going~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999075,
+    "TalkSentenceText": {
+      "C": "粉色，像桃子，想吃…",
+      "E": "Pink, like a peach... I want a bite..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999076,
+    "TalkSentenceText": {
+      "C": "嗯？？！",
+      "E": "Huh!!?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999077,
+    "TalkSentenceText": {
+      "C": "好可爱的小团雀头花~",
+      "E": "What an adorable little pincushion flower~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999078,
+    "TalkSentenceText": {
+      "C": "不是装饰，是好伙伴嗷",
+      "E": "Not just for decorations, they're your best buds!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999079,
+    "TalkSentenceText": {
+      "C": "想治愈所有的不开心…",
+      "E": "To heal every sorrow..."
+    }
+  },
+  {
+    "TalkSentenceID": 549999080,
+    "TalkSentenceText": {
+      "C": "这得吃不少糕点",
+      "E": "That's going to take a lot of pastries."
+    }
+  },
+  {
+    "TalkSentenceID": 549999081,
+    "TalkSentenceText": {
+      "C": "听我嗷呜：交换眼镜吧",
+      "E": "Hear me out: let's swap glasses."
+    }
+  },
+  {
+    "TalkSentenceID": 549999082,
+    "TalkSentenceText": {
+      "C": "新风格？也不错咪",
+      "E": "A new look? Not bad at all, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999083,
+    "TalkSentenceText": {
+      "C": "魔法可是无所不能的~",
+      "E": "Magic can do anything~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999084,
+    "TalkSentenceText": {
+      "C": "想要看不完的漫画咪！",
+      "E": "I want an endless supply of comics, meow!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999085,
+    "TalkSentenceText": {
+      "C": "…晚点找人给你画嗷",
+      "E": "...I'll have someone draw one for you later."
+    }
+  },
+  {
+    "TalkSentenceID": 549999086,
+    "TalkSentenceText": {
+      "C": "好无聊，来玩个游戏咪",
+      "E": "I'm so bored. Let's play a game, meow~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999087,
+    "TalkSentenceText": {
+      "C": "不要笑挑战，正式开始",
+      "E": "Try-Not-To-Laugh Challenge, starting... now!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999088,
+    "TalkSentenceText": {
+      "C": "嗷呜~已启动绷住模式",
+      "E": "Awoo~ Poker face mode activate!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999089,
+    "TalkSentenceText": {
+      "C": "冲浪健身了解一下~",
+      "E": "Surfing and working out, check 'em out~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999090,
+    "TalkSentenceText": {
+      "C": "晒太阳的运动？喜欢",
+      "E": "Sunbathing as exercise? I'm in."
+    }
+  },
+  {
+    "TalkSentenceID": 549999091,
+    "TalkSentenceText": {
+      "C": "猫抓板做好了，给你",
+      "E": "The scratching post is done. Here you go."
+    }
+  },
+  {
+    "TalkSentenceID": 549999092,
+    "TalkSentenceText": {
+      "C": "多谢嗷呜！锻炼继续~",
+      "E": "Thanks, awoo! Back to training~"
+    }
+  },
+  {
+    "TalkSentenceID": 549999093,
+    "TalkSentenceText": {
+      "C": "挖土浇水，都可以找我",
+      "E": "Need some toiling or watering? I'm your guy."
+    }
+  },
+  {
+    "TalkSentenceID": 549999094,
+    "TalkSentenceText": {
+      "C": "生命小花园离不开你！",
+      "E": "The little garden of life can't do without you!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999095,
+    "TalkSentenceText": {
+      "C": "为什么要追我嗷呜？",
+      "E": "Why are you chasing me awoooooo!?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999096,
+    "TalkSentenceText": {
+      "C": "练习碰碰大作战。",
+      "E": "Practicing Seal Slammer."
+    }
+  },
+  {
+    "TalkSentenceID": 549999097,
+    "TalkSentenceText": {
+      "C": "来拍张合影嗷呜！",
+      "E": "Let's take a group photo, awoo!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999098,
+    "TalkSentenceText": {
+      "C": "好呀，可是镜头在哪？",
+      "E": "Sure thing! But where's the camera?"
+    }
+  },
+  {
+    "TalkSentenceID": 549999099,
+    "TalkSentenceText": {
+      "C": "我就是，照片存在心里",
+      "E": "I am! I keep the photos I take right here in my heart."
+    }
+  },
+  {
+    "TalkSentenceID": 549999100,
+    "TalkSentenceText": {
+      "C": "遇到危险时，请呼唤我",
+      "E": "If you ever find yourself in danger, just call for me."
+    }
+  },
+  {
+    "TalkSentenceID": 549999101,
+    "TalkSentenceText": {
+      "C": "嗯，背靠背的好伙伴！",
+      "E": "Yep, buddies have each other's backs!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999102,
+    "TalkSentenceText": {
+      "C": "出门记得带上好心情！",
+      "E": "Don't forget to bring your good mood when you head out!"
+    }
+  },
+  {
+    "TalkSentenceID": 549999103,
+    "TalkSentenceText": {
+      "C": "以及好胃口，嗷呜~",
+      "E": "And a hearty appetite, awoo~"
+    }
+  }
+]
