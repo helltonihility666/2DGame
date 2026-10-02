@@ -83,7 +83,7 @@
       "E": "Rules are made to be broken!"
     }
   },
-  {
+  {  
     "TalkSentenceID": 549999012,
     "TalkSentenceText": {
       "C": "再转一圈，准能追上~",
@@ -111,14 +111,14 @@
       "E": "Friends are here, time to get this party started~"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999016,
     "TalkSentenceText": {
       "C": "小眼镜一戴，姿势要帅",
       "E": "Glasses on, aura max."
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999017,
     "TalkSentenceText": {
       "C": "为我们的友谊干杯~",
@@ -363,7 +363,7 @@
       "E": "Major good luck is coming your way, meow!"
     }
   },
-  {
+  {  //↓ MARCH, EVANESCIA ↓
     "TalkSentenceID": 549999052,
     "TalkSentenceText": {
       "C": "头发越粉，撞人越狠~",
@@ -375,16 +375,16 @@
     "TalkSentenceText": {
       "C": "可是我们没有头发咪…",
       "E": "But we don't have hair, meow..."
-    }
+    } 
   },
   {
     "TalkSentenceID": 549999054,
     "TalkSentenceText": {
       "C": "嗷呜，不早说！",
       "E": "Awoo, why didn't you say so sooner!"
-    }
+    } //↑ MARCH, EVANESCIA ↑
   },
-  {
+  {  //↓ HERTA, RUAN MEI ↓
     "TalkSentenceID": 549999055,
     "TalkSentenceText": {
       "C": "给你个机会，夸夸我~",
@@ -396,7 +396,7 @@
     "TalkSentenceText": {
       "C": "…你的帽子歪得正正好",
       "E": "...Your hat is tilted at just the right angle."
-    }
+    } //↑ HERTA, RUAN MEI ↑
   },
   {
     "TalkSentenceID": 549999057,
@@ -412,7 +412,7 @@
       "E": "Don't be afraid. This is your home now."
     }
   },
-  {
+  {  //↓ AVENTURINE, ROBIN, SPARXIE, AVENTURINE ↓
     "TalkSentenceID": 549999059,
     "TalkSentenceText": {
       "C": "我来准备汽水~",
@@ -431,23 +431,23 @@
     "TalkSentenceText": {
       "C": "我来邀请朋友~",
       "E": "I'm here to invite a friend~"
-    }
+    }  
   },
   {
     "TalkSentenceID": 549999062,
     "TalkSentenceText": {
       "C": "开一场难忘的派对咪！",
       "E": "Let's throw a party to remember, meow!"
-    }
+    } //↑ AVENTURINE, ROBIN, SPARXIE, AVENTURINE ↑
   },
-  {
+  {  //↓ JING YUAN, BLADE, DAN HENG ↓
     "TalkSentenceID": 549999063,
     "TalkSentenceText": {
       "C": "不许打盹，都起来锻炼",
       "E": "No dozing off! Everyone up and at 'em!"
     }
   },
-  {
+  {  
     "TalkSentenceID": 549999064,
     "TalkSentenceText": {
       "C": "嗷呜…饿得跑不动",
@@ -459,9 +459,9 @@
     "TalkSentenceText": {
       "C": "我点心分你一半",
       "E": "I'll split my snacks with you."
-    }
+    } //↑ JING YUAN, BLADE, DAN HENG ↑
   },
-  {
+  {  //↓ PHAINON, HYACINE, CYRENE ↓
     "TalkSentenceID": 549999066,
     "TalkSentenceText": {
       "C": "活力满满，渴望冲刺！",
@@ -480,9 +480,9 @@
     "TalkSentenceText": {
       "C": "慢一点，注意安全嗷~",
       "E": "Slow down and stay safe, okay~"
-    }
+    } //↑ PHAINON, HYACINE, CYRENE ↑
   },
-  {
+  { //↓ FIREFLY, KAFKA, BLADE ↓
     "TalkSentenceID": 549999069,
     "TalkSentenceText": {
       "C": "这次的行动目标是？",
@@ -501,9 +501,9 @@
     "TalkSentenceText": {
       "C": "一份惊喜，嗷呜",
       "E": "A little surprise, awoo~"
-    }
+    } //↑ FIREFLY, KAFKA, BLADE ↑
   },
-  {
+  {  //↓ TB, MARCH, DAN HENG ↓
     "TalkSentenceID": 549999072,
     "TalkSentenceText": {
       "C": "想去好多有趣的地方咪",
@@ -522,14 +522,14 @@
     "TalkSentenceText": {
       "C": "嗷呜，一起出发~",
       "E": "Awoo, let's get going~"
-    }
+    } //↑ TB, MARCH, DAN HENG ↑
   },
-  {
+  {  //↓ ACHERON, CYRENE ↓
     "TalkSentenceID": 549999075,
     "TalkSentenceText": {
       "C": "粉色，像桃子，想吃…",
       "E": "Pink, like a peach... I want a bite..."
-    }
+    } //↑ ACHERON, CYRENE ↑
   },
   {
     "TalkSentenceID": 549999076,
@@ -538,7 +538,7 @@
       "E": "Huh!!?"
     }
   },
-  {
+  {  //↓ ROBIN, JING YUAN ↓
     "TalkSentenceID": 549999077,
     "TalkSentenceText": {
       "C": "好可爱的小团雀头花~",
@@ -550,9 +550,9 @@
     "TalkSentenceText": {
       "C": "不是装饰，是好伙伴嗷",
       "E": "Not just for decorations, they're your best buds!"
-    }
+    } //↑ ROBIN, JING YUAN ↑
   },
-  {
+  {  //↓ HYACINE, RUAN MEI ↓
     "TalkSentenceID": 549999079,
     "TalkSentenceText": {
       "C": "想治愈所有的不开心…",
@@ -564,9 +564,9 @@
     "TalkSentenceText": {
       "C": "这得吃不少糕点",
       "E": "That's going to take a lot of pastries."
-    }
+    } //↑ HYACINE, RUAN MEI ↑
   },
-  {
+  {  //↓ KAFKA, AVENTURINE ↓
     "TalkSentenceID": 549999081,
     "TalkSentenceText": {
       "C": "听我嗷呜：交换眼镜吧",
@@ -578,9 +578,9 @@
     "TalkSentenceText": {
       "C": "新风格？也不错咪",
       "E": "A new look? Not bad at all, meow~"
-    }
+    } //↑ KAFKA, AVENTURINE ↑
   },
-  {
+  {  //↓ HERTA, EVANESCIA, HERTA ↓
     "TalkSentenceID": 549999083,
     "TalkSentenceText": {
       "C": "魔法可是无所不能的~",
@@ -599,9 +599,9 @@
     "TalkSentenceText": {
       "C": "…晚点找人给你画嗷",
       "E": "...I'll have someone draw one for you later."
-    }
+    } //↑ HERTA, EVANESCIA, HERTA ↑
   },
-  {
+  {  //↓ SPARXIE, SPARXIE, FIREFLY ↓
     "TalkSentenceID": 549999086,
     "TalkSentenceText": {
       "C": "好无聊，来玩个游戏咪",
@@ -620,9 +620,9 @@
     "TalkSentenceText": {
       "C": "嗷呜~已启动绷住模式",
       "E": "Awoo~ Poker face mode activate!"
-    }
+    } //↑ SPARXIE, SPARXIE, FIREFLY ↑
   },
-  {
+  {  //↓ PHAINON, AVENTURINE ↓
     "TalkSentenceID": 549999089,
     "TalkSentenceText": {
       "C": "冲浪健身了解一下~",
@@ -634,9 +634,9 @@
     "TalkSentenceText": {
       "C": "晒太阳的运动？喜欢",
       "E": "Sunbathing as exercise? I'm in."
-    }
+    } //↑ PHAINON, AVENTURINE ↑
   },
-  {
+  {  //↓ BLADE, JING YUAN ↓
     "TalkSentenceID": 549999091,
     "TalkSentenceText": {
       "C": "猫抓板做好了，给你",
@@ -648,9 +648,9 @@
     "TalkSentenceText": {
       "C": "多谢嗷呜！锻炼继续~",
       "E": "Thanks, awoo! Back to training~"
-    }
-  },
-  {
+    } //↑ BLADE, JING YUAN ↑
+  }, 
+  {  //↓ DAN HENG, JING YUAN ↓
     "TalkSentenceID": 549999093,
     "TalkSentenceText": {
       "C": "挖土浇水，都可以找我",
@@ -662,9 +662,9 @@
     "TalkSentenceText": {
       "C": "生命小花园离不开你！",
       "E": "The little garden of life can't do without you!"
-    }
-  },
-  {
+    } //↑ DAN HENG, JING YUAN ↑
+  }, 
+  {  //↓ DAN HENG, BLADE ↓
     "TalkSentenceID": 549999095,
     "TalkSentenceText": {
       "C": "为什么要追我嗷呜？",
@@ -676,9 +676,9 @@
     "TalkSentenceText": {
       "C": "练习碰碰大作战。",
       "E": "Practicing Seal Slammer."
-    }
-  },
-  {
+    } //↑ DAN HENG, BLADE ↑
+  }, 
+  {  //↓ MARCH, TB, MARCH ↓
     "TalkSentenceID": 549999097,
     "TalkSentenceText": {
       "C": "来拍张合影嗷呜！",
@@ -690,16 +690,16 @@
     "TalkSentenceText": {
       "C": "好呀，可是镜头在哪？",
       "E": "Sure thing! But where's the camera?"
-    }
+    } 
   },
   {
     "TalkSentenceID": 549999099,
     "TalkSentenceText": {
       "C": "我就是，照片存在心里",
       "E": "I am! I keep the photos I take right here in my heart."
-    }
+    } //↑ MARCH, TB, MARCH ↑
   },
-  {
+  {  //↓ DAN HENG, TB ↓
     "TalkSentenceID": 549999100,
     "TalkSentenceText": {
       "C": "遇到危险时，请呼唤我",
@@ -711,9 +711,9 @@
     "TalkSentenceText": {
       "C": "嗯，背靠背的好伙伴！",
       "E": "Yep, buddies have each other's backs!"
-    }
+    }  //↑ DAN HENG, TB ↑
   },
-  {
+  {  //↓ MARCH, DAN HENG ↓
     "TalkSentenceID": 549999102,
     "TalkSentenceText": {
       "C": "出门记得带上好心情！",
@@ -725,6 +725,6 @@
     "TalkSentenceText": {
       "C": "以及好胃口，嗷呜~",
       "E": "And a hearty appetite, awoo~"
-    }
+    }  //↑ MARCH, DAN HENG ↑
   }
 ]
