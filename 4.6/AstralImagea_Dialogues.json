@@ -83,28 +83,28 @@
       "E": "Rules are made to be broken!"
     }
   },
-  {  
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999012,
     "TalkSentenceText": {
       "C": "再转一圈，准能追上~",
       "E": "One more lap and I'll catch up~"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999013,
     "TalkSentenceText": {
       "C": "运气真不错咪！",
       "E": "What a lucky break!"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999014,
     "TalkSentenceText": {
       "C": "庆祝的时候到了",
       "E": "It's time to celebrate!"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999015,
     "TalkSentenceText": {
       "C": "朋友齐聚，派对开始~",
@@ -125,7 +125,7 @@
       "E": "A toast to our friendship~"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999018,
     "TalkSentenceText": {
       "C": "小赚一笔咪~",
@@ -139,21 +139,21 @@
       "E": "With you around, what could go wrong, meow!"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999020,
     "TalkSentenceText": {
       "C": "来玩个小游戏咪~",
       "E": "Let's play a little game, meow~"
     }
   },
-  {
+  {  //↓ AVENTURINE
     "TalkSentenceID": 549999021,
     "TalkSentenceText": {
       "C": "累了，来瓶苏乐达",
       "E": "Feeling worn out? Grab a SoulGlad."
     }
   },
-  {
+  {  //↓ ROBIN
     "TalkSentenceID": 549999022,
     "TalkSentenceText": {
       "C": "接近了，就差一点点…",
@@ -188,7 +188,7 @@
       "E": "Keep up with my rhythm, meow~"
     }
   },
-  {
+  {  //↓ ROBIN
     "TalkSentenceID": 549999027,
     "TalkSentenceText": {
       "C": "一起唱，咪咪咪♫",
@@ -398,7 +398,7 @@
       "E": "...Your hat is tilted at just the right angle."
     } //↑ HERTA, RUAN MEI ↑
   },
-  {
+  {  //↓ ACHERON, TB ↓
     "TalkSentenceID": 549999057,
     "TalkSentenceText": {
       "C": "找不到回家的路嗷呜…",
@@ -410,7 +410,7 @@
     "TalkSentenceText": {
       "C": "别怕，这里就是你的家",
       "E": "Don't be afraid. This is your home now."
-    }
+    } //↑ ACHERON, TB ↑
   },
   {  //↓ AVENTURINE, ROBIN, SPARXIE, AVENTURINE ↓
     "TalkSentenceID": 549999059,
