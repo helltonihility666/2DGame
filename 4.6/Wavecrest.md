@@ -22,7 +22,7 @@ Sparxbloom: "I'm here to invite a friend~" ("我来邀请朋友~")\
 Wavecrest: "Let's throw a party to remember, meow! ("开一场难忘的派对咪！")
 
 Kafkanon: "Hear me out: let's swap glasses." ("听我嗷呜：交换眼镜吧")\
-Aventurine: "A new look? Not bad at all, meow~" ("新风格？也不错咪")\
+Wavecrest: "A new look? Not bad at all, meow~" ("新风格？也不错咪")\
 
 Wavecrest: "Surfing and working out, check 'em out~"\
 Vigethos: "Sunbathing as exercise? I'm in." ("晒太阳的运动？喜欢")\
